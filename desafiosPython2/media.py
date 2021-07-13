@@ -8,7 +8,7 @@ media = (n1*2 + n2*3 + n3*4 + n4*1)/10
 print('Media: %.1f' %media)
 
 if (media<5.0):
-    print('Aluno reprovado')
+    print('Aluno reprovado.')
 
 if (media>=7.0):
     print('Aluno aprovado.')
